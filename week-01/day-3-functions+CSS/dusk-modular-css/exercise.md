@@ -22,7 +22,7 @@ For the following exercises, refer to the mini-project in [starter_code](starter
 
 ###SHOUT IT OUT!
 
-Create a class `.shout` that uppercases the text of "Modular CSS". 
+Create a class `.shout` that uppercases the text of "Modular CSS".
 
 ###Shadow
 

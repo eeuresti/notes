@@ -6,3 +6,63 @@
 }
 .block-children > * { display: block;}
 .inline-block-children > * { display: inline-block; }
+
+.shout{
+  text-transform: uppercase;
+}
+.shadow{
+  text-shadow: 2px 2px 4px gray;
+}
+.invert{
+  transform: rotate(180deg);
+}
+.red-background{
+  background-color: red;
+}
+.blue-background{
+  background-color: blue;
+}
+.purple-background{
+  background-color: purple;
+}
+.circle{
+	border-radius: 50%;
+	width: 100px;
+	height: 100px;
+}
+.half{
+  width: 50%;
+}
+.center {
+    margin: 0 auto;
+}
+.middle{
+  text-align: center;
+}
+.outmost{
+	width: 100px;
+	height: 100px;
+	z-index: 1;
+}
+
+.outer{
+	width: 80px;
+	height: 80px;
+	position: absolute;
+	top: 46em;
+	left: 41.1em;
+	z-index: 2;
+}
+
+.inner{
+	width: 50px;
+	height: 50px;
+	position: absolute;
+	top: 47em;
+	left: 42.1em;
+	z-index: 3;
+}
+
+.bullseye{
+	display:inline-block;
+}

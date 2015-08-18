@@ -1,10 +1,17 @@
 //where our iterators live
 var o_o = {
   each: function(list, callback) {
-    //code here...
+    for (var i = 0; i < list.length; i++){
+      var element = list[i];
+      callback();
+    }
+    return undefined;
   },
   map: function(list, callback){
     //code here...
+    for (var i = 0; i < list.length; i++){
+      
+    }
   },
   filter: function(list, callback) {
     //code here...

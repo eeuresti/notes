@@ -193,3 +193,8 @@ var data = {
     }
   ]
 }
+
+// WARMUP
+// - The name of the course $('h1').append(data.course)
+//
+// - data.students.length

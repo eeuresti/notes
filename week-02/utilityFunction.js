@@ -1,3 +1,9 @@
+
+convertToObject
+
+
+
+
 /*function assert(input, output, testFunction) {
     return output === testFunction(input);
 }
@@ -10,7 +16,7 @@ console.log("second test " + assert(["thursday", "friday", "saturday"], "thursda
 
 
 
-function assert(input, output, testFunction) {
+/*function assert(input, output, testFunction) {
     return output === testFunction(input);
 
     function lastDay(week){
@@ -19,4 +25,4 @@ function assert(input, output, testFunction) {
 
         console.log("first test " + assert(["monday", "tuesday", "wednesday"], "wednesday", lastDay));
 
-        console.log("second test " + assert(["thursday", "friday", "saturday"], "saturday", lastDay));
+        console.log("second test " + assert(["thursday", "friday", "saturday"], "saturday", lastDay)); */
